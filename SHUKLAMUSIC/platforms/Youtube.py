@@ -1,17 +1,3 @@
-# ---------------------------------------------------------------
-# ðŸ”¸ Shashank YT-API Project
-# ðŸ”¹ Developed & Maintained by: Shashank Shukla (https://github.com/itzshukla)
-# ðŸ“… Copyright Â© 2025 â€“ All Rights Reserved
-#
-# ðŸ“– License:
-# This source code is open for educational and non-commercial use ONLY.
-# You are required to retain this credit in all copies or substantial portions of this file.
-# Commercial use, redistribution, or removal of this notice is strictly prohibited
-# without prior written permission from the author.
-#
-# â¤ï¸ Made with dedication and love by ItzShukla
-# ---------------------------------------------------------------
-
 import asyncio
 import os
 import re
