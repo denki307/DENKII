@@ -38,9 +38,9 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSIC_BOT_WORLD")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Jana_Nayagan_Tamil_chat")
 
-# Vars For API End Pont.
-YTPROXY_URL = getenv("YTPROXY_URL", 'https://tgapi.xbitcode.com') ## xBit Music Endpoint.
-YT_API_KEY = getenv("YT_API_KEY" , 'xbit_FoPZuIwe2QtqAbVbc1Yc2YLWqk1Phhqe' ) ## Your API key like: xbit_10000000xx0233 Get from  https://t.me/tgmusic_apibot
+# YT-API Get from @AmShashank on tg
+YOUR_API_KEY = getenv("YOUR_API_KEY", "")
+YOUR_API_URL = getenv("YOUR_API_URL", "")
 
 # Assistant settings
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
